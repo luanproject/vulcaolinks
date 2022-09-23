@@ -17,7 +17,7 @@ main {
 footer {
   display: block;
   text-align: center;
-  padding: 4rem;
+  padding: 2rem;
 }
 
 .nav img {
@@ -38,7 +38,7 @@ footer {
 }
 
 .links h2 {
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 .links img {
