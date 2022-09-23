@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   background-color: #e9e9ea;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Montserrat, Geneva, Tahoma, sans-serif;
 }
 
 a {
@@ -37,6 +37,10 @@ footer {
   margin: auto;
 }
 
+.links h2 {
+  padding: 2rem;
+}
+
 .links img {
   max-width: 1.3rem;
   padding-right: 5px;
@@ -50,6 +54,7 @@ footer {
   color: white;
   transition: 1s;
   box-shadow: 0 3px 2px rgb(0 0 0 / 0.2);
+  font-weight: 700;
 }
 
 a:hover {
