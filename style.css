@@ -14,9 +14,15 @@ main {
   max-width: 1000px;
 }
 
+footer {
+  display: block;
+  text-align: center;
+  padding: 4rem;
+}
+
 .nav img {
   max-width: 70%;
-  transition: 1s;
+  margin-top: 1rem;
 }
 
 .nav {
@@ -32,7 +38,7 @@ main {
 }
 
 .links img {
-  max-width: 1rem;
+  max-width: 1.3rem;
   padding-right: 5px;
 }
 
